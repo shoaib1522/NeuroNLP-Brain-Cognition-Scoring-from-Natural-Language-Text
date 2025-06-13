@@ -59,9 +59,7 @@ The final "Brain Score" is a weighted average of four distinct, independently ca
 
 NeuroNLP is built on a robust, decoupled microservice architecture. This separation of concerns ensures that the application is scalable, maintainable, and efficient.
 
-<p align="center">
-  <img src="https://i.imgur.com/3ZkYh4E.png" alt="Architecture Diagram" width="700"/>
-</p>
+
 
 #### **Frontend (`/frontend`)** 🖥️
 -   **Framework:** **Next.js 14** (with React 18)
